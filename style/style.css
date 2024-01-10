@@ -1,0 +1,20 @@
+.topic h1{
+    color: blue;
+    text-align: center;
+}
+.topic{
+    color: #8b6e6e;
+    text-align: center;
+    background-color: aquamarine;
+}
+.link  a{
+    border:2px solid rgb(159, 91, 91);
+    color: blue;
+    font-size: 20px;
+    margin-left: 30px;
+    /* text-align: center; почему то работает только в .link без а */
+}
+.foto {
+    width: 40;
+    height: 60;
+}
